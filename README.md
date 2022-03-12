@@ -1,8 +1,12 @@
 ### Hi there 👋 , I'm Harris
 
 #Connect with me
+<br></br>
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/harris-myronidis#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/harris-myronidis#gh-dark-mode-only)
+
+<br></br>
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]
 
 <!--
 **waterHarris/waterHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
